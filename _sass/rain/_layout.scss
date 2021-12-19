@@ -25,7 +25,7 @@ footer,
 
   &-title {
     @include transition(all .2s ease-out);
-    color: $default-color;
+    color: $fg;
     display: inline-block;
     margin: 0;
     padding-right: .2rem;
@@ -53,7 +53,7 @@ footer,
 
   li {
     @include transition(all .2s ease-out);
-    color: $default-color;
+    color: $fg;
     display: inline-block;
     opacity: .6;
     padding: 0 2rem 0 0;
@@ -69,7 +69,7 @@ footer,
   }
 
   a {
-    color: $default-color;
+    color: $fg;
     font-family: $sans-serif;
   }
 }
@@ -94,7 +94,7 @@ footer {
   text-align: center;
 
   span {
-    color: $default-color;
+    color: $fg;
     font-size: .8rem;
   }
 }
