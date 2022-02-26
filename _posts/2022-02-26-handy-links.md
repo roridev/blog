@@ -19,6 +19,7 @@ TBA.
 
 **Waiting for Code Owner:** [click here](https://github.com/PowerNukkit/PowerNukkit/labels/Status:%20Waiting%20for%20Code%20Owner)  
 *Awaiting Review* : [click here](https://github.com/PowerNukkit/PowerNukkit/labels/Status:%20Awaiting%20Review)  
+*Awaiting Merge* : [click here](https://github.com/PowerNukkit/PowerNukkit/labels/Status:%20Awaiting%20Merge)  
 Prio-0 Issues : [click here](https://github.com/PowerNukkit/PowerNukkit/issues?q=is%3Aopen+is%3Aissue+label%3Apriority%3A0)  
 Prio-1 Issues : [click here](https://github.com/PowerNukkit/PowerNukkit/issues?q=is%3Aopen+is%3Aissue+label%3Apriority%3A1)  
 Prio-2 Issues : [click here](https://github.com/PowerNukkit/PowerNukkit/issues?q=is%3Aopen+is%3Aissue+label%3Apriority%3A2)  
